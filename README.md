@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Meetsu369/Meetsu369/main/banner.png" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sumeet Prajapati</h1>
 <h3 align="center">Aspiring Software Developer | AI & Web Enthusiast</h3>
 
