@@ -46,12 +46,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meetsu369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Meetsu369&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meetsu369&show_icons=true&theme=radical)](https://github.com/Meetsu369)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meetsu369&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meetsu369&layout=compact&theme=radical)](https://github.com/Meetsu369)
 
 </div>
 
