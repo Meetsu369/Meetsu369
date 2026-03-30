@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Web+Developer;Problem+Solver;Building+Real+Projects&center=true&width=500&height=50&color=00FF88">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Developer;Web+Developer;Problem+Solver;Building+Real+Projects&center=true&width=500&height=50&color=00FF88">
 </p>
 
 ---
@@ -26,7 +26,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,mongodb,html,css,git" />
 </p>
 
 ---
@@ -45,22 +45,25 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Meetsu369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Meetsu369&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  
+![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meetsu369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetsu369&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Meetsu369&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meetsu369&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meetsu369&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Meetsu369&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 ---
 
