@@ -3,7 +3,9 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Sumeet Prajapati</h1>
+
 <h3 align="center">AI & Web Developer</h3>
+
 <p align="center">
   Building real-world solutions with code 🚀
 </p>
@@ -45,23 +47,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Meetsu369&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Meetsu369&theme=tokyonight&hide_border=true" />
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meetsu369&show_icons=true&theme=radical)](https://github.com/Meetsu369)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Meetsu369&layout=compact&theme=radical)](https://github.com/Meetsu369)
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Meetsu369&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetsu369&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -74,7 +67,7 @@
 </p>
 
 <p align="center">
-📧 sumeet9704@outlook.com
+  📧 sumeet9704@outlook.com
 </p>
 
 ---
