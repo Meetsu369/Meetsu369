@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Meetsu369/Meetsu369/main/banner.png" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/Meetsu369/Meetsu369/main/banner.png" width="100%" alt="Sumeet Prajapati Banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Sumeet Prajapati</h1>
@@ -67,3 +67,8 @@
 <p align="center">
 📧 sumeet9704@outlook.com
 </p>
+
+---
+
+## ⚡ Fun Fact
+I enjoy building projects that solve real-world problems 🚀
