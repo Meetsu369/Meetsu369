@@ -3,9 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Sumeet Prajapati</h1>
-
 <h3 align="center">AI & Web Developer</h3>
-
 <p align="center">
   Building real-world solutions with code 🚀
 </p>
@@ -17,6 +15,7 @@
 ---
 
 ## 🧠 About Me
+
 - 💻 Building real-world applications  
 - 🚀 Passionate about AI & Web Development  
 - 🎯 Focused on problem-solving & system design  
@@ -25,6 +24,7 @@
 ---
 
 ## 🛠 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,mongodb" />
 </p>
@@ -46,12 +46,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Meetsu369&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=Meetsu369&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Meetsu369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Meetsu369&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetsu369&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetsu369&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meetsu369&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -71,4 +79,11 @@
 ---
 
 ## ⚡ Fun Fact
+
 I enjoy building projects that solve real-world problems 🚀
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Meetsu369&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
