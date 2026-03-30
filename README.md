@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sumeet 👋  
 
-<!--
-**Meetsu369/Meetsu369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer | AI & Web Enthusiast  
 
-Here are some ideas to get you started:
+## 🧠 About Me  
+- I build real-world applications  
+- Passionate about AI and Web Development  
+- Currently improving problem-solving skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+- Languages: Python, JavaScript  
+- Tools: Git, MongoDB  
+- Frameworks: React, Node.js  
+
+## 🔥 Featured Projects  
+
+### 🛒 Luxe  
+E-commerce web application  
+- Built using JavaScript  
+- Focus on UI and functionality  
+
+### 🧭 Margadarshak  
+AI-based traffic guidance system  
+- Built using Python  
+- Focus on intelligent decision systems  
+
+## 📊 GitHub Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=Meetsu369&show_icons=true&theme=tokyonight)
